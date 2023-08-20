@@ -1,0 +1,10 @@
+C:\Users\tahac\source\repos\bodymassindex\bodymassindex\bin\Debug\bodymassindex.exe.config
+C:\Users\tahac\source\repos\bodymassindex\bodymassindex\bin\Debug\bodymassindex.exe
+C:\Users\tahac\source\repos\bodymassindex\bodymassindex\bin\Debug\bodymassindex.pdb
+C:\Users\tahac\source\repos\bodymassindex\bodymassindex\obj\Debug\bodymassindex.csproj.AssemblyReference.cache
+C:\Users\tahac\source\repos\bodymassindex\bodymassindex\obj\Debug\bodymassindex.Form1.resources
+C:\Users\tahac\source\repos\bodymassindex\bodymassindex\obj\Debug\bodymassindex.Properties.Resources.resources
+C:\Users\tahac\source\repos\bodymassindex\bodymassindex\obj\Debug\bodymassindex.csproj.GenerateResource.cache
+C:\Users\tahac\source\repos\bodymassindex\bodymassindex\obj\Debug\bodymassindex.csproj.CoreCompileInputs.cache
+C:\Users\tahac\source\repos\bodymassindex\bodymassindex\obj\Debug\bodymassindex.exe
+C:\Users\tahac\source\repos\bodymassindex\bodymassindex\obj\Debug\bodymassindex.pdb
